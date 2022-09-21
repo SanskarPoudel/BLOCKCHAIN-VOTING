@@ -22,7 +22,7 @@ Online voting using  Ethereum blockchain environment and React Js frontend.
 
 <h2> More Information </h2>
 
--> The account which is firstly used to deploy the smart contract using <b> "truffle migrate" </b> will be automatically an admin account.
+-> The account which is firstly used to deploy the smart contract using <b> "truffle migrate" </b> will  automatically be  admin account.
 
 -> You should import the same accout on metamask which is mentioned above to access the admin control and stuff.
 
