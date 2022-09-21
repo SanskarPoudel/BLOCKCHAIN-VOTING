@@ -1,6 +1,8 @@
 # BLOCKCHAIN-VOTING
 Online voting using  Ethereum blockchain environment and React Js frontend.
 
+<h2> Installation Guide </h2>
+
 -> Go to client directory ( cd client) and run  <b> "npm install" </b>  to install all the required dependencies mentioned in package.json file.
 
 -> Install truffle using cmd <b> "npm install -g truffle" </b> 
