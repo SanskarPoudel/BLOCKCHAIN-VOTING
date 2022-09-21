@@ -20,3 +20,10 @@ Online voting using  Ethereum blockchain environment and React Js frontend.
 
 -> Then goto client directory and run <b> "npm start" </b> 
 
+<h2> More Information </h2>
+
+-> The account which is firstly used to deploy the smart contract using <b> "truffle migrate" </b> will be automatically an admin account.
+
+-> You should import the same accout on metamask which is mentioned above to access the admin control and stuff.
+
+-> You can use all other accounts account as a user to register and vote.
